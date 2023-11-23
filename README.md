@@ -1,6 +1,3 @@
-<p align="center">
-</p>
-
 ### React Native Expo.
 
 </br>
