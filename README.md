@@ -7,12 +7,6 @@
 
 </br>
 
-## 📷 Screenshots
-
-|    <img width=300 src="https://i.ibb.co/S0YTR17/IMG-7501.png" alt="image" border="0"/><br /> | <img width=300 src="https://i.ibb.co/3kpm6RH/IMG-7500.png" alt="image" border="0"/><br /> |
-| - |-  |
-|    <img width=300 src="https://i.ibb.co/2sX1Q9C/image.png" alt="image" border="0"/><br />  | <a href="https://ibb.co/C8kYgDQ"><img width=300 src="https://i.ibb.co/b26B7PX/image.png" alt="image" border="0"></a> |
-
 </br>
 
 ## Features
@@ -26,9 +20,6 @@
 
 </br>
 
-## Demo 💥
-
-https://user-images.githubusercontent.com/95961680/228990075-e2797d4c-6fea-419e-bced-8a42653e0ec5.mp4
 
 </br>
 
@@ -62,20 +53,6 @@ Following these guidelines helps to communicate that you respect the time of
 the developers managing and developing this open source project. In return,
 they should reciprocate that respect in addressing your issue or assessing
 patches and features.
-
-
-### Using the issue tracker
-
-The issue tracker is the preferred channel for [bug reports](#bugs),
-[features requests](#features) and [submitting pull
-requests](#pull-requests), but please respect the following restrictions:
-
-* Please **do not** use the issue tracker for personal support requests (use the
-  [Roots Discourse](https://discourse.roots.io/) to ask the Roots Community for help, or if you want the Roots Team to dedicate some time to your issue, we [offer our services](https://roots.io/services/) as well).
-
-* Please **do not** derail or troll issues. Keep the discussion on topic and
-  respect the opinions of others.
-
 
 <a name="bugs"></a>
 ### Bug reports
