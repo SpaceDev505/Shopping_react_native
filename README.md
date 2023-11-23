@@ -22,6 +22,7 @@
 
 To run this project using Expo, you can download it as a zip or clone this repo, then run
 
+adb connection
 ```bash
   npm i
   npx expo start
